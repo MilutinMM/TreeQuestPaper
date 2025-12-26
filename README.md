@@ -1,8 +1,10 @@
-# Code for the analysis of Tree-Quest Measurments collected in Laxenburg Park
+# Code for the analysis of Tree-Quest measurements collected in Laxenburg Park
 This repository contains code necessary to reproduce the results published in (!!! the link will be added soon !!!): \
 Manuscript title: Tree-Quest: A Citizen Science App for Collecting Single-Tree Information
+Journal: Ecological Informatics 
+Status: under review
 
-The input datasets are published and can be downloaded from (!!! the zenodo link coming soon!!!)
+The input datasets are published and can be downloaded from [this Zenodo repository](https://doi.org/10.5281/zenodo.18063770)
 
 ## DBH/TH Analysis
 
